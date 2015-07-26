@@ -4,3 +4,4 @@ Kolmas teksti.
 Neljäs teksti.
 Viides teksti.
 Kuudes teksti.
+Seitsämän.teksti.
